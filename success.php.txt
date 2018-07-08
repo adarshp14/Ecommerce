@@ -1,0 +1,12 @@
+ <!DOCTYPE html>
+<html>
+<body>
+
+<h1>Registration Successful</h1>
+
+<?php
+echo "You have succesfully registered..Click home to login";
+?>
+
+</body>
+</html> 
